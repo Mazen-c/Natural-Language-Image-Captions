@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"c:\\\\\\\\Users\\\\\\\\Ahmed\\\\\\\\Desktop\\\\\\\\uneeq\\\\\\\\Movies RECO\\\\\\\\Natural-Language-Image-Captions\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "Bash(python -c \"import json; json.load\\(open\\('Notebook.ipynb','r',encoding='utf-8'\\)\\); print\\('Notebook JSON is valid'\\)\")",
+      "Bash(rm apply_fixes.py)",
+      "Bash(rm simplify_fixes.py)",
+      "Bash(python humanize.py)"
+    ]
+  }
+}
